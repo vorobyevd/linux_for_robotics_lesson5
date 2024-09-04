@@ -74,7 +74,7 @@ services:
 git clone git@github.com:vorobyevd/linux_for_robotics_lesson5.git
 ```
 
-2. Предполагается, что docker-engine уже установлен( [инструкция по установке](https://docs.docker.com/engine/install/ubuntu/) ).  Перейти в корневую папку, содержащую файл Docker-compose.yaml и открыть терминал. Команда запуска контейнеров.
+2. Предполагается, что docker-engine уже установлен( [инструкция по установке](https://docs.docker.com/engine/install/ubuntu/) ).  Перейти в корневую папку, содержащую файл Docker-compose.yaml и открыть терминал. Команда запуска контейнеров:
 ```bash 
     docker compose up
 ```
